@@ -1,4 +1,4 @@
-Hey I'm Ryan Kien, a undergraduate Cognitive Science w/ Specialization in Computing major at UCLA. My main interests are deep learning (NLP), FullStack Development, and Japanese.
+Hey I'm Ryan Kien, a undergraduate Cognitive Science w/ Specialization in Computing major at UCLA. My main interests are deep learning, and Japanese.
 
 Email me: ryankien@ucla.edu
 
