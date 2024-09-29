@@ -33,9 +33,9 @@ I'm a recent UCLA grad with a passion for competitive video games and learning J
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryankkien&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankkien&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
