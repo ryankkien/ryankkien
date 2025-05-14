@@ -8,12 +8,12 @@ Los Angeles, CA | rkien29@gmail.com | [LinkedIn](https://linkedin.com/in
 
 ## 🚀 Snapshot
 
-- 🎓 **M.S. Computer Science (Machine Learning & AI)** — *Georgia Tech OMSCS, 2025-26* :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
-- 🧠 **B.S. Cognitive Science** — *UCLA ’24* :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
-- 🔬 **AI Researcher** @ Numao Lab, Osaka University — boosted EEG-emotion model accuracy ↑ 13 % using Efficient Channel Attention & migrated TF → PyTorch (-15 % train time) :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
-- 📊 **Data Analyst** @ UCLA Language Processing Lab — denoised pupillometry with Fourier analysis & SQL-driven insights on linguistic complexity :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}  
-- 🏆 *Best Insight*, UCLA **DataFest 2022** — sentiment-based player analytics that outscored 300 teams :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}  
-- 🎮 Former UCLA **League of Legends** academy mid-laner (top 300 NA) :contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}  
+- 🎓 **M.S. Computer Science (Machine Learning & AI)** — *Georgia Tech OMSCS, 2025-26*  
+- 🧠 **B.S. Cognitive Science** — *UCLA ’24*  
+- 🔬 **AI Researcher** @ Numao Lab, Osaka University — boosted EEG-emotion model accuracy ↑ 13 % with Efficient Channel Attention & migrated TF → PyTorch (-15 % train time)  
+- 📊 **Data Analyst** @ UCLA Language Processing Lab — denoised pupillometry via Fourier analysis & SQL-driven insights on linguistic complexity  
+- 🏆 *Best Insight*, UCLA **DataFest 2022** — sentiment-based player analytics that outscored 300 teams  
+- 🎮 Former UCLA **League of Legends** academy mid-laner (top 300 NA)  
 
 ---
 
@@ -21,7 +21,7 @@ Los Angeles, CA | rkien29@gmail.com | [LinkedIn](https://linkedin.com/in
 
 | Project | Goal | Stack |
 |---------|------|-------|
-| **OMSCS Course Navigator** | Recommender for grad-level course paths | Python · pandas · scikit-learn · GCP :contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13} |
+| **OMSCS Course Navigator** | Recommender for grad-level course paths | Python · pandas · scikit-learn · GCP |
 | **EEG Emotion Classifier v2** | Efficient-Attention upgrades for cross-subject generalization | PyTorch · Albumentations |
 | **CV Final (GT CS 6476)** | CNN pipeline for real-world digit detection | PyTorch · YOLOv8 · CUDA |
 
@@ -47,10 +47,10 @@ Los Angeles, CA | rkien29@gmail.com | [LinkedIn](https://linkedin.com/in
 
 | Ask Me About | Why |
 |--------------|-----|
-| Rapid ML prototyping | I’ve migrated & optimized research codebases in both TF & PyTorch |
+| Rapid ML prototyping | I’ve migrated & optimized research codebases in TF and PyTorch |
 | Data engineering for research | Built pipelines for EEG, pupillometry & game telemetry datasets |
 | Graduate CS life (OMSCS) | Currently navigating Georgia Tech’s ML/AI track |
-| League of Legends coaching | Diamond-level mid advice & mentality tips |
+| League of Legends coaching | Diamond-level mid advice & mindset tips |
 
 ---
 
