@@ -2,18 +2,18 @@
 # Hi, I’m **Ryan Kien** 👋
 
 ## 🚀 About Me  
-- **B.S. Cognitive Science (Computing Specialization), UCLA ’24** – GPA 3.72 :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
+- **B.S. Cognitive Science (Computing Specialization), UCLA ’24**  
+- Currently taking **Georgia Tech CS 6476 – Computer Vision**, where I’m building CNN-powered digit-detection systems  
 - Machine-learning researcher focused on **NLP, music information retrieval & human-computer interaction**  
-- Published weekly AI articles on [Medium](https://medium.com/@ryankkien) and mentor Python as a UCLA Learning Assistant :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
-- Recent **Frontier Lab intern (Osaka University)** exploring representation learning for creative AI :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
-- Awarded **Best Insight** at *ASA DataFest 2022* for sentiment-driven player analytics :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}  
-- Side-quests: building cute web plugins, climbing the League solo-queue ladder 🎮, and learning Japanese（日本語を勉強しています）
+- Publish weekly AI articles on [Medium](https://medium.com/@ryankkien) and mentor Python as a UCLA Learning Assistant  
+- Former **Frontier Lab intern (Osaka University)** exploring representation learning for creative AI  
+- Side-quests: crafting cute web plugins, climbing the League solo-queue ladder 🎮, and learning Japanese（日本語を勉強しています）
 
 ### 🔭 Current Projects
 | Project | What I’m Doing | Stack |
 |---------|----------------|-------|
 | **Semantify** | GloVe-based embeddings that score Spotify playlist cohesion | PyTorch · NumPy · GCP |
-| **Frontier Lab paper** | Researching few-shot music genre transfer | TensorFlow · Librosa |
+| **CS 6476 Final** | CNN pipeline for digit detection & recognition | PyTorch · Albumentations |
 | **Teaching @ UCLA** | Designing Jupyter notebooks for ~100 students | Pandas · scikit-learn |
 
 ---
