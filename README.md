@@ -50,7 +50,8 @@ Los Angeles, CA | rkien29@gmail.com | [LinkedIn](https://linkedin.com/in
 | Rapid ML prototyping | I’ve migrated & optimized research codebases in TF and PyTorch |
 | Data engineering for research | Built pipelines for EEG, pupillometry & game telemetry datasets |
 | Graduate CS life (OMSCS) | Currently navigating Georgia Tech’s ML/AI track |
-| League of Legends coaching | Diamond-level mid advice & mindset tips |
+| League of Legends coaching | Grandmaster top lane advice & mindset tips |
+| Language Acquisition |
 
 ---
 
